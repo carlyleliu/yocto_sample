@@ -1,0 +1,2 @@
+export PATH=/home/carlyleliu/workspace/yocto/bitbake-2022-04.29-kirkstone/bin:$PATH
+export PYTHONPATH=/home/carlyleliu/workspace/yocto/bitbake-2022-04.29-kirkstone/lib:$PYTHONPATH
